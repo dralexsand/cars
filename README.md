@@ -67,6 +67,24 @@ php artisan db:seed --class=CarSeeder
 
 #### create ApiRequest
 
+#### create Api controllers and configure with Requests
+
+```
+php artisan make:controller Api/v1/TransmissionsController --api
+php artisan make:controller Api/v1/BrandsController --api
+php artisan make:controller Api/v1/ColorsController --api
+php artisan make:controller Api/v1/CarmodelsController --api
+php artisan make:controller Api/v1/PhotosController --api
+php artisan make:controller Api/v1/CarsController --api
+```
+
+
+#### configure route api
+#### create ApiController
+#### use ApiResponse in Controller
+
+
+
 
 
  
