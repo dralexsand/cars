@@ -10,3 +10,4 @@ php artisan ui vue
 
 npm install && npm run dev
 
+configure RouteServiceProvider for api, web, user, admin groups routes 
