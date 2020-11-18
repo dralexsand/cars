@@ -18,6 +18,6 @@ use Illuminate\Support\Facades\Route;
     return $request->user();
 });*/
 
-Route::get('/test', function () {
+Route::get('/', function () {
     return response('Test route api', 200);
 });
