@@ -59,6 +59,20 @@ php artisan db:seed --class=ColorSeeder
 php artisan db:seed --class=CarmodelSeeder
 php artisan db:seed --class=CarSeeder
 ```
+#### create Models/ApiModel
+
+#### create Traits/ApiResponse
+
+#### mkdir Requests with models requests rules
+
+#### create ApiRequest
+
+
+
+ 
+
+
+
 
 
 
