@@ -83,8 +83,14 @@ php artisan make:controller Api/v1/CarsController --api
 #### create ApiController
 #### use ApiResponse in Controller
 
+#### create Model/Filter, FilterController
+
+```
+php artisan make:model Filter
+php artisan make:controller Api/v1/FilterController --api
 
 
+```
 
 
  
