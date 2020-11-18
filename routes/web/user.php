@@ -2,7 +2,7 @@
 
 use Illuminate\Support\Facades\Route;
 
-Route::get('/test', function () {
+Route::get('/', function () {
     return response('Test route user', 200);
 });
 
