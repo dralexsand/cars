@@ -92,6 +92,12 @@ php artisan make:controller Api/v1/FilterController --api
 
 ```
 
+create AdminController
+
+```
+php artisan make:controller AdminController
+```
+
 
  
 
